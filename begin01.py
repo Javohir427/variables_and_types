@@ -3,3 +3,4 @@
 # num_two o'zgaruvchiga 4 ni taminlang;
 
 # Yig'indisini chop eting;
+ 
